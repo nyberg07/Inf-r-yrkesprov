@@ -83,6 +83,7 @@ chmod +x relay_control.sh
 ./relay_control.sh on    # Slår PÅ reläet
 ./relay_control.sh off   # Slår AV reläet
 ```
+![Optocoupler](https://github.com/user-attachments/assets/99d8077d-35a7-40f7-b9b0-bc482d4e7919)
 
 
 
