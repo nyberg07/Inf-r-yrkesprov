@@ -1,4 +1,4 @@
-# Grove-Moisture-Sensor-Beaglebone-Green
+# Grove-Moisture-Sensor
 Moisture sensor
 
 Grove Moisture Sensor + BeagleBone Green (Analog via AIN0)
